@@ -1,1 +1,3 @@
-# CausalDisco 🪩 Benchmarking and Analytics for Causal Discovery
+# CausalDisco 🪩 
+
+**Benchmarking and Analytics for Causal Discovery**
